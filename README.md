@@ -6,7 +6,7 @@ Hi, if you wanna to make your own MCP for example 1.14.3 this links and programs
 **[modcoderpack.com](http://www.modcoderpack.com/)** - 
 Official site width links to download MCP
 
-**[freethemice Fot idea setup tutorial](https://www.youtube.com/channel/UCexD2je8MBjZnvFlR72L0nw)** - Tutorial how to set up MCP with Intel IDEA
+**[freethemice Fot idea setup tutorial](https://www.youtube.com/watch?v=KgeAAOip-7c)** - Tutorial how to set up MCP with Intel IDEA
 
 **[Pokechu22 tutorial](https://gist.github.com/Pokechu22/97bf5bd528eeadef09dcbae8a15b009f)** - 
 Tutorial how to get mapping, SRG's etc. for your version
