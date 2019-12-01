@@ -13,7 +13,10 @@ Tutorial how to get mapping, SRG's etc. for your version
 
 **[ThisTestUser program MCPFixer and tutorial](https://github.com/ThisTestUser/MCPFixer)** - Program and tutorial with fixes for MCP from 1.13.x to 1.14.x
 
-**[optifinesource.co.uk](https://optifinesource.co.uk/)** - Website with Optifine SRC from 1.7.x to 1.12.x
+
+**[optifinesource.co.uk](https://optifinesource.co.uk/)** - Website with Optifine SRC from 1.7.x to 1.12.x (Not working anymore)
+
+**[optifine.szymex.pw](https://optifine.szymex.pw/)** - Backup of OptifineSource by Hexeption
 
 **[4thdimensiontraveler tutorial](https://4thdimensiontraveler.fandom.com/wiki/Decompiling_Optifine)** - If your version of Minecraft doesn't have SRC on link up this tutorial help you to get one.
 
